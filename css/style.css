@@ -663,3 +663,9 @@ ul.social_icon li a:hover {
      padding-right: 15px;
      margin-top: 25px;
 }
+p{
+     text-align: right;
+}
+.copyright{
+     background: #323232
+}
